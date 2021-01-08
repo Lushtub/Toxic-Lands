@@ -3,7 +3,7 @@ Semi-Expert Pack with unique progression and mechanics. You spawn in a decaying 
 
 Alone, in the middle of nowhere. It's crazy how negligence can lead to an awaken nightmare. Lost, in an other planet. Maybe even an other world. Dimension? Universe? This is not important. The evil forces are stronger than ever. The chaos will spread all over the universe. Was it really an incident? And who is really NEO, the Artificial Intelligence that help me surviving? Am I really alone? I feel watched. But I can't give up. I need to gather, process, explore the abyss, experiments, research about this world, acquire knowledge. This world is magic. I need to manipulate the nature, to perform rituals, alchemy or even sorcery. This is necessary if I want to survive. And maybe escape the Toxic Lands...
 
-#Planned Features
+# Planned Features
 
 This pack include a questbook with FTB Quest to guide the player trough this strange world.
 
